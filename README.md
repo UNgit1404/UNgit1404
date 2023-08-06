@@ -1,5 +1,4 @@
-
-<img src="https://github.com/UNgit1404/UNgit1404/blob/main/Utk.png" alt="logo" width="100">
+![logo](https://github.com/UNgit1404/UNgit1404/blob/main/Utk%20(1).jpg)
 
 <h1 align="center">Hi 👋, I'm Utkarsh Narayan</h1>
 <h3 align="center">A budding Engineer aspiring to make a name in my domain and do my bit to make this society a better place to live.</h3>
